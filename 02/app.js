@@ -1,5 +1,5 @@
 function sayHello (Jacek) {
-console.log("Cześć"  +  Jacek  + "!");
+console.log("Cześć"  + " " +  Jacek  );
 }
 
 sayHello('Jacek');
