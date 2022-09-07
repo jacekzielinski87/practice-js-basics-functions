@@ -1,9 +1,5 @@
-const time = document.getElementById('clock');
-
-
-setInterval(function) {
-    const time = newDate.toLocaleTimeString();
+function showTime (siema){
+    console.log('Pokaż czas');
 }
 
-
-console.log(time);
+showTime(siema);
